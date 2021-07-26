@@ -7,3 +7,4 @@ originally website host ps4macedo.github.io/755sl13
 edited files
 
 -index.html
+-jb.js
